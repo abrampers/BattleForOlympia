@@ -44,7 +44,7 @@ and enjoy the game.
 * **Ahmad Izzan** - *Initial work* - [ahmadizzan](https://github.com/ahmadizzan)
 * **Dandy Arif Rahman** - *Initial work*
 * **Faza Fahleraz** - *Initial work* - [ffahleraz](https://github.com/ffahleraz)
-* **M. Sulthan Adhipradhana** - *Initial work*
+* **M. Sulthan Adhipradhana** - *Initial work* - [adhipradhana](https://github.com/adhipradhana)
 * **Yusuf Rahmat Pratama** - *Initial work* - [SoarTheSky](https://github.com/SoarTheSky)
 
 ## Acknowledgments
